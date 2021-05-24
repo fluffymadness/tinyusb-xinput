@@ -1,5 +1,6 @@
 #ifndef _XINPUTPAD_H_
 #define _XINPUTPAD_H_
+#include <stdint.h>
 
 typedef struct {
 	uint8_t rid;
